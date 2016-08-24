@@ -2,6 +2,7 @@
 layout: post
 title: "Chemists (and Computer Scientists) Are A Strange Class of Mortals"
 date: 2016-08-24
+categories: blogposts
 ---
 I'm Jonathan Baker, a Notre Dame student caught in between classes, but wonderfully labeled by the university as "second-semester Junior"; I wasn't even afforded a "Class of XXXX" label upon my return from a semester away from campus. I am, and I think somewhat uniquely, currently seeking a dual degree in Chemistry and Computer Science with few intentions to pursue much of either one in the future, or at least in their perceived forms. I am much more interested in mathematics and the theory of the thing, rather than the thing itself. I don't wish to "seek pleasures amid smoke and vapor" (Johann Joachim) nor program commerical applications. I am less concerned with the business of computers and rather inclined towards the science of computers. So, as I hope most people do, study for the sake of the truth, and while both fields lack the ability to grant certainty in their modern forms for "experimental science hardly affords more than approximations," certainly a good approximation of the truth is far greater than no truth at all, or a truth unexplored. 
 
