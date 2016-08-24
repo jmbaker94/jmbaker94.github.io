@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Chemists (and Computer Scientists) Are A Strange Class of Mortals"
 date: 2016-08-24
 ---
